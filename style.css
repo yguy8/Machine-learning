@@ -1,10 +1,10 @@
 body{
     margin: 0;
-    background-color: gray;
+    background: darkgray;
     overflow: hidden;
     text-align: center;
 }
 
 #myCanvas{
-    background-color: wheat;
+    background: lightgray;
 }
